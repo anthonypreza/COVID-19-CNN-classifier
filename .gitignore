@@ -2,3 +2,6 @@ chest_xray
 covid-chestxray-dataset
 .venv
 .ipynb_checkpoints
+val
+train
+test
